@@ -1,0 +1,1 @@
+test.json是调用ghidra API生成的control_flow_graph，用CFG2js.py可以转换为model.js，此时打开index.html就能看到这个控制流图啦
